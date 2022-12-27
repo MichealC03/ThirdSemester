@@ -1,0 +1,39 @@
+ 1: have have score states 
+ 2: back it it pulisic the the the the the 
+ 3: cant hasnt into mckennie star they 
+ 4: 
+ 5: over with 
+ 6: good 
+ 7: iran iran 
+ 8: and net to to 
+ 9: 
+10: path united usa you 
+11: been been got 
+12: ball ball finally 
+13: dest 
+14: all of of say 
+15: who 
+16: gooooaaaaaaaalllllllll in 
+17: man 
+18: a americas coming heads 
+19: 
+20: 
+
+
+Enter a string to search for or -1 to bail out: to
+to was found! 3 elements were inspected.
+
+
+Enter a string to search for or -1 to bail out: mckennie
+mckennie was found! 4 elements were inspected.
+
+
+Enter a string to search for or -1 to bail out: a
+a was found! 1 elements were inspected.
+
+
+Enter a string to search for or -1 to bail out: fish
+fish was NOT found... all elements were inspected.
+
+
+Enter a string to search for or -1 to bail out: -1
