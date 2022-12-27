@@ -1,0 +1,56 @@
+       0   1   2   3   4   5   6   7   8   9  10  11  12  13  14
+
+   0   0  14   0   0   0   0   0   0   0   0   0  14   9   0   0
+
+   1  14   0   9   0   0   0   0   0   0   0  17   9   0   0   0
+
+   2   0   9   0   5   0   0   0   0   0  20  13   0   0   0   0
+
+   3   0   0   5   0  17   0   0   0   0   9   0   0   0   0   0
+
+   4   0   0   0  17   0  16   0   0   0   4   0   0   0   0   0
+
+   5   0   0   0   0  16   0   8   9   0  12   0   0   0   0   0
+
+   6   0   0   0   0   0   8   0   6   0   0   0   0   0   0   0
+
+   7   0   0   0   0   0   9   6   0   7  12   0   0   0  23  10
+
+   8   0   0   0   0   0   0   0   7   0  13   5   0   0   0   6
+
+   9   0   0  20  19   4  12   0  12  13   0   7   0   0   0   0
+
+  10   0  17  13   0   0   0   0   0   5   7   0  18   0   0   8
+
+  11  14   9   0   0   0   0   0   0   0   0  18   0  15   0   9
+
+  12   9   0   0   0   0   0   0   0   0   0   0  15   0  11  15
+
+  13   0   0   0   0   0   0   0  23   0   0   0   0  11   0  18
+
+  14   0   0   0   0   0   0   0  10   6   0   8   9  15  18   0
+
+
+
+Would you like to find a distance? (Y/N) Y
+
+Enter a starting point from 0-14: 0
+
+Enter an end point from 0-14: 11
+Path Complete 0 to 11
+
+The value between points 0 and 11 is: 14
+
+
+Would you like to find a distance? (Y/N) Y
+
+Enter a starting point from 0-14: 13
+
+Enter an end point from 0-14: 5
+Path Complete 13 to 7
+Path Complete 7 to 5
+
+The value between points 13 and 5 is: 32
+
+
+Would you like to find a distance? (Y/N) N
