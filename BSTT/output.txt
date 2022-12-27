@@ -1,0 +1,39 @@
+ a about ancho and before best chiles dicing do down for from garlic generations i im its malones my night own passed pressing probably recipe serious stuff the thing this toast tomatoes up whole 
+
+Enter a string to search for or -1 to bail out: passed
+
+6 elements were inspected.
+passed was found.
+
+
+Enter a string to search for or -1 to bail out: a
+
+3 elements were inspected.
+a was found.
+
+
+Enter a string to search for or -1 to bail out: before
+
+3 elements were inspected.
+before was found.
+
+
+Enter a string to search for or -1 to bail out: -1
+
+
+Enter a string to delete or -1 to bail out: whole
+
+
+Enter a string to delete or -1 to bail out: fish
+fish was not found.
+
+
+Enter a string to delete or -1 to bail out: garlic
+
+
+Enter a string to delete or -1 to bail out: -1
+
+
+BST now looks like:
+
+ a about ancho and before best chiles dicing do down for from i generations im its malones my night own passed pressing probably recipe serious stuff the thing this toast tomatoes up
