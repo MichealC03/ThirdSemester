@@ -1,0 +1,43 @@
+Linked List: 0 16 17 28 32 34 48 65 83 88 95 96 
+
+Front: 0
+
+Back: 96
+
+Remove the front: 
+Linked List: 16 17 28 32 34 48 65 83 88 95 96 
+
+Remove the tail: 
+Linked List: 16 17 28 32 34 48 65 83 88 95 
+
+The size of the list is: 10
+
+Would you like to see if an index is empty? (Y/N) 
+A
+
+
+Would you like to see if an index is empty? (Y/N) Y
+
+
+What index would you like to examine? 7
+Element at index 7 is 65.
+
+
+Would you like to see if an index is empty? (Y/N) Y
+
+
+What index would you like to examine? 6
+Element at index 6 is 48.
+
+
+Would you like to see if an index is empty? (Y/N) N
+
+
+Reversed list
+Linked List: 95 88 83 65 48 34 32 28 17 16 
+
+New list:
+Linked List: 0 27 90 
+
+Merged lists:
+Linked List: 0 27 90 95 88 83 65 48 34 32 28 17 16
